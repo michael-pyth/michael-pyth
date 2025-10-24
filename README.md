@@ -19,5 +19,5 @@
 
 *- https://github.com/michael-pyth/simple-nnw*
 
-*- arandomguy1272.pythonanywhere.com*
+*- https://arandomguy1272.pythonanywhere.com*
 
