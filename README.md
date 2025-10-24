@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**michael-pyth/michael-pyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## hello
+**i can code in python, html and css**
+**python includes:**
+*- telegram (pyrogram)*
+*- pygame*
+*- flask*
+*- a bit of SQL*
+*- keras and tensorflow*
+**a preview of my skills**
+*- https://github.com/michael-pyth/telegram-bot*
+*- https://github.com/michael-pyth/simple-nnw*
+*- arandomguy1272.pythonanywhere.com*
