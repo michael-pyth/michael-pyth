@@ -1,5 +1,5 @@
 ## hello
-**i can code in python, html and css**
+**i can code in python, html and css (currently trying to learn js)**
 
 **python includes:**
 
@@ -21,3 +21,10 @@
 
 *- https://arandomguy1272.pythonanywhere.com*
 
+**if you check this if i apply for a job, here is some extra information:**
+
+*i am currently still studying so i will probably not have a lot of time for work.*
+
+*i dont lack social skills unlike some others from my generation*
+
+*i struggle with time management (cant plan stuff properly)*
